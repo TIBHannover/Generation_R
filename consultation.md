@@ -1,8 +1,8 @@
-== Consultation Documentation ==
+# Consultation Documentation
 
 Started June 2018
 
-=== Questions ===
+## Questions
 
 1. How to build a collaborative Open Research Notebook.
 2. Working on contributing to learning resources with our first theme of Software Citation and the partners Open Science MOOC.
