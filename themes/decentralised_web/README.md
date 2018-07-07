@@ -1,3 +1,43 @@
 # The Decentralized Web
 
-About the theme the decentralized web.
+About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
+
+CONTRIBUTIONS WELCOME! (Fork Me!) For questions see Gitter https://gitter.im/Generation_R/Lobby
+
+Contributor guidelines see URL
+
+JOIN the [COLLABORATIVE LIBRARY](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/JUWWA2S8) (AKA Zotero group)
+
+## Intro
+
+## General list
+
+## Headline issues
+
+## Short list (AKA cheat sheet)
+
+## Articles
+
+MoSCoW-LIVE! - Must have, Should have, Could have, Won't have, and LIVE meaning published. https://en.wikipedia.org/wiki/MoSCoW_method
+
+LIVE!
+
+Must have
+
+Should have
+
+Could have
+
+Won't have
+
+## History
+
+## Report
+
+## Reader
+
+## Map
+
+## Presentations
+
+## Log

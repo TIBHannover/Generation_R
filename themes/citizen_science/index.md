@@ -1,4 +1,0 @@
-# Citizen Science
-
-Theme development
-
