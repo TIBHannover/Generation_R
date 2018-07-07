@@ -12,6 +12,16 @@ JOIN the [COLLABORATIVE LIBRARY](https://www.zotero.org/groups/1838445/generatio
 
 ## General list
 
+### Technologies
+
+* Blockchain
+* Solid
+* Dat
+
+### Videos
+
+Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
+
 ## Headline issues
 
 ## Short list (AKA cheat sheet)
@@ -41,3 +51,9 @@ Won't have
 ## Presentations
 
 ## Log
+
+## Contributors
+
+Add yourself!
+
+Simon Worthington @mrchristian - editor, code janitor, list nut</br>
