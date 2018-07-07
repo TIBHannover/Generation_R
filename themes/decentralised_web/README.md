@@ -1,5 +1,7 @@
 # The Decentralized Web
 
+Twitter hashtags #genr #decentralizedweb
+
 About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
 
 CONTRIBUTIONS WELCOME! (Fork Me!) For questions see Gitter https://gitter.im/Generation_R/Lobby
@@ -56,4 +58,4 @@ Won't have
 
 Add yourself!
 
-Simon Worthington @mrchristian - editor, code janitor, list nut</br>
+Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, list nut</br>
