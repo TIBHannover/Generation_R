@@ -1,4 +1,4 @@
-# The Decentralized Web
+# The Decentralized Web: A [Gen R](http://genr.eu) Theme
 
 Twitter hashtags #genr #decentralizedweb
 
