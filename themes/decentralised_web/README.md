@@ -1,6 +1,6 @@
 # The Decentralized Web: A [Gen R](http://genr.eu) Theme
 
-https://twitter.com/gen_r_ Twitter hashtags #genr #decentralizedweb
+Twitter hashtags #genr #decentralizedweb
 
 About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
 
@@ -30,8 +30,6 @@ Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Was
 
 ## Short list (AKA cheat sheet)
 
-A copy is also [here](https://github.com/TIBHannover/Generation_R/blob/master/themes/decentralized_web/shortlist.md) for easy reuse.
-
 ## Articles
 
 MoSCoW-LIVE! - Must have, Should have, Could have, Won't have, and LIVE meaning published. https://en.wikipedia.org/wiki/MoSCoW_method
@@ -54,11 +52,9 @@ Won't have
 
 ## Map
 
-A visualisation of the field. A copy is also [here](map.md) for easy reuse.
-
 ## Presentations
 
-[The Decentralized Web: A Gutenberg Threshold - OSL+ TIB 11july2018_SW_v01](https://github.com/TIBHannover/Generation_R/blob/master/themes/decentralized_web/osl%2B_presentation_11july2018sw.md)
+[OSL+ 11 July 2018, TIB](https://github.com/TIBHannover/Generation_R/blob/master/themes/decentralized_web/osl%2B_presentation_11july2018sw.md)
 
 ## Log
 
@@ -66,6 +62,6 @@ A visualisation of the field. A copy is also [here](map.md) for easy reuse.
 
 ## Contributors
 
-Add yourself! See also CONTRIBUTOR file.
+Add yourself!
 
 Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, list nut</br>
