@@ -1,4 +1,6 @@
-# The Decentralized Web
+# The Decentralized Web: A [Gen R](http://genr.eu) Theme
+
+Twitter hashtags #genr #decentralizedweb
 
 About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
 
@@ -23,6 +25,8 @@ JOIN the [COLLABORATIVE LIBRARY](https://www.zotero.org/groups/1838445/generatio
 Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
 
 ## Headline issues
+
+### Questions
 
 ## Short list (AKA cheat sheet)
 
@@ -56,4 +60,4 @@ Won't have
 
 Add yourself!
 
-Simon Worthington @mrchristian - editor, code janitor, list nut</br>
+Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, list nut</br>
