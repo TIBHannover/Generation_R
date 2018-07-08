@@ -30,7 +30,7 @@ Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Was
 
 ## Short list (AKA cheat sheet)
 
-A copy is also [here](https://github.com/TIBHannover/Generation_R/blob/master/themes/decentralized_web/shortlist.md) for easy reuse.
+A copy is also [here](shortlist.md) for easy reuse.
 
 ## Articles
 
@@ -66,6 +66,6 @@ A visualisation of the field. A copy is also [here](map.md) for easy reuse.
 
 ## Contributors
 
-Add yourself! See also CONTRIBUTOR file.
+Add yourself! See also [CONTRIBUTOR](CONTRIBUTOR.txt) file.
 
-Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, list nut</br>
+Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, and list nut<br/>
