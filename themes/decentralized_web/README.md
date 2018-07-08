@@ -26,6 +26,8 @@ Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Was
 
 ## Headline issues
 
+### Questions
+
 ## Short list (AKA cheat sheet)
 
 ## Articles
