@@ -1,6 +1,7 @@
-# The Decentralized Web: A [Gen R](http://genr.eu) Theme
+# The Decentralized Web: A Gen R Theme
 
-https://twitter.com/gen_r_ Twitter hashtags #genr #decentralizedweb
+https://twitter.com/gen_r_ Twitter hashtags #genr #decentralizedweb<br/>
+http://genr.eu
 
 About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
 
