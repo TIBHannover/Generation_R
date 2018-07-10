@@ -41,6 +41,8 @@ LIVE!
 
 Must have
 
+Solid.Community launch August, and Application Developer Kit in Aug, Sept 2018 https://solid.community/
+
 Should have
 
 Could have
