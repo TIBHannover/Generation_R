@@ -1,6 +1,6 @@
 ## The Decentralized Web: A Gutenberg threshold!
 
-Twitter thread
+Twitter thread https://twitter.com/Gen_R_/status/1016947358574305280
 
 Presentation for Open Science Lab - Plus (OSL+) for colleagues at TIB <br/>
 Simon Worthington, Generation R, Open Science Lab<br/>
