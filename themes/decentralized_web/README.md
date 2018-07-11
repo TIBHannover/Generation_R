@@ -27,6 +27,8 @@ Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Was
 
 ## Headline issues
 
+Public Web search index - how can the DecWeb enable a public we index? e.g., Yacy https://yacy.net/de/
+
 ### Questions
 
 ## Short list (AKA cheat sheet)
