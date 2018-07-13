@@ -66,14 +66,15 @@ Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code 
 
 ## General list (AKA the pool)
 
-### Searches (use tag: search-dw)
+### Searches 
 
 Search results (significant) combined, sortable by tag https://www.zotero.org/groups/1838445/generation_r/items/tag/search-dw 
 
- * OpenAIRE - term: decentralized web on: projects SW, 13.7.18 tag: oa-proj-dw
+(use tag: **search-dw** in Zotero)
+
+ * OpenAIRE - term: decentralized web on: projects SW, 13.7.18 tag: **oa-proj-dw** no significant results: 1
  
  ‘OpenAIRE - Project: Enabling the Web of Entities. ...’ {SITE_NAME}. Accessed 13 July 2018. https://www.openaire.eu/search/project?projectId=corda_______::d2f5f6c7a9cc36dc99daabd5a37b061d.
-
 
 ### Literature
 
