@@ -13,17 +13,6 @@ JOIN the [COLLABORATIVE LIBRARY](https://www.zotero.org/groups/1838445/generatio
 
 ## Intro
 
-## General list
-
-### Technologies
-
-* Blockchain
-* Solid
-* Dat
-
-### Videos
-
-Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
 
 ## Headline issues
 
@@ -74,3 +63,27 @@ A visualisation of the field. A copy is also [here](map.md) for easy reuse.
 Add yourself! See also [CONTRIBUTOR](CONTRIBUTOR.txt) file.
 
 Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, and list nut<br/>
+
+## General list (AKA the pool)
+
+### Searches (use tag: search-dw)
+
+Search results (significant) combined, sortable by tag https://www.zotero.org/groups/1838445/generation_r/items/tag/search-dw 
+
+ * OpenAIRE - term: decentralized web on: projects SW, 13.7.18 tag: oa-proj-dw
+ 
+ ‘OpenAIRE - Project: Enabling the Web of Entities. ...’ {SITE_NAME}. Accessed 13 July 2018. https://www.openaire.eu/search/project?projectId=corda_______::d2f5f6c7a9cc36dc99daabd5a37b061d.
+
+
+### Literature
+
+### Technologies
+
+* Blockchain
+* Solid
+* Dat
+* CDNs
+
+### Videos
+
+Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
