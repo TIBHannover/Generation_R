@@ -1,11 +1,15 @@
 # The Decentralized Web: A Gen R Theme
 
-https://twitter.com/gen_r_ Twitter hashtags #genr #decentralizedweb<br/>
+https://twitter.com/gen_r_ Twitter hashtags **#genr #decentralizedweb**<br/>
 http://genr.eu
 
-About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. (start date 7/7/2018)
+GitHub emojis https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+About the theme of the decentralized web to be publishing on Generation R from 10th September 2018 for six weeks and continued intermittently as necessary. Themes are run as OPEN NEWS meaning we share our ideas and interests prior to publishing to support the Open Science/Open Scholarship community. The September publication will run for six weeks, contain several blog posts and make contributions to partner learning resources, such as [Open Science MOOC](https://opensciencemooc.github.io/site/). :mortar_board: (start date 7/7/2018)
 
 CONTRIBUTIONS WELCOME! (Fork Me!) For questions see Gitter https://gitter.im/Generation_R/Lobby
+
+Raise any issues or requests above https://github.com/TIBHannover/Generation_R/issues
 
 Contributor guidelines see URL
 
@@ -13,17 +17,22 @@ JOIN the [COLLABORATIVE LIBRARY](https://www.zotero.org/groups/1838445/generatio
 
 ## Intro
 
-## General list
+Among the many perspectives and motivations for the interest in the decentralization of the web two areas that seem most compelling for Open Science are:
 
-### Technologies
+* firstly, the ability to verify the provenance of data objects, and
+* secondly, to aid making content independent of platforms and their inevitable lock-in — either from business exploitation or the end of the life cycle of a platform being reached.
 
-* Blockchain
+The model of decentralization is already firmly instantiated as the Internet, a system that never crashes (fatally), or stops working, and can scale and evolve. The question it would seem we face is how to extend such resilience to research software, platforms, and infrastructures.
+
+Currently the decentralized web has three different technology enabling models in the running.
+
 * Solid
-* Dat
+* Blockchain
+* DAT
 
-### Videos
+All of these technology options are currently being run in research programmes in academia. We will look to assemble voices from these different communities to look at the motivations and outcomes of this R&D.
 
-Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
+For the researcher we will look at how they can get involved in using what is on offer from decentralized systems while keeping their data and time invested in adopting or trialing these technologies somehow safe.
 
 ## Headline issues
 
@@ -76,3 +85,28 @@ A visualisation of the field. A copy is also [here](map.md) for easy reuse.
 Add yourself! See also [CONTRIBUTOR](CONTRIBUTOR.txt) file.
 
 Simon Worthington [@mrchristian](https://github.com/mrchristian) - editor, code janitor, and list nut<br/>
+
+## General list (AKA the pool)
+
+### Searches :racehorse:
+
+Search results (significant) combined, sortable by tag https://www.zotero.org/groups/1838445/generation_r/items/tag/search-dw 
+
+(use tag: **search-dw** in Zotero)
+
+ * OpenAIRE - term: decentralized web on: projects SW, 13.7.18 tag: **oa-proj-dw** no significant results: 1
+ 
+ ‘OpenAIRE - Project: Enabling the Web of Entities. ...’ {SITE_NAME}. Accessed 13 July 2018. https://www.openaire.eu/search/project?projectId=corda_______::d2f5f6c7a9cc36dc99daabd5a37b061d.
+
+### Literature
+
+### Technologies
+
+* Blockchain
+* Solid
+* Dat
+* CDNs
+
+### Videos
+
+Van de Sompel, Herbert. Scholarly Communication: Deconstruct & Decentralize? Washington, DC: CNI: Coalition for Networked Information, 2017. https://www.youtube.com/watch?v=o4nUe-6Ln-8.
