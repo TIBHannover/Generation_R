@@ -45,6 +45,8 @@ Must have
 
 Solid.Community launch August, and Application Developer Kit in Aug, Sept 2018 https://solid.community/
 
+Internet Archive. ‘Decentralized Web Summit: Locking Ecentralized Web Summit 2018 Global Visions / Working Code July 31 – August 2, 2018’, 7-2.8 2018. http://www.decentralizedweb.net.
+
 Should have
 
 Could have
